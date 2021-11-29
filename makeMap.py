@@ -101,7 +101,7 @@ def makeTable(df):
 	
 	template = [
 			{
-				"title": "Increase in vaccination rates by SA4 areas for people aged 15 and over",
+				"title": "Increase in vaccination rates by SA3 areas for people aged 15 and over",
 				"subtitle": "Showing the increase in the percentage of people aged 15 and over who have received at least one dose. Last updated {date}".format(date=last_date),
 				"footnote": "",
 				"source": "Department of Health",
