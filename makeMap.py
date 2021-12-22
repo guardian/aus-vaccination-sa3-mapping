@@ -95,7 +95,7 @@ makeMap(final_map)
 
 #%%
 
-from yachtCharter import yachtCharter
+from yachtcharter import yachtCharter
 
 def makeTable(df):
 	
