@@ -1,335 +1,335 @@
-,id,Name,fully_vaccinated,change-weekly,at_least_one_dose
-0,10102,Queanbeyan,95.0,0.0,95.0
-1,10103,Snowy Mountains,95.0,0.0,95.0
-2,10104,South Coast,95.0,0.0,95.0
-3,10105,Goulburn - Mulwaree,95.0,0.0,95.0
-4,10106,Young - Yass,95.0,0.0,95.0
-5,10201,Gosford,95.0,0.0,95.0
-6,10202,Wyong,95.0,0.0,95.0
-7,10301,Bathurst,94.7,0.3,95.0
-8,10302,Lachlan Valley,95.0,0.0,95.0
-9,10303,Lithgow - Mudgee,95.0,0.3,95.0
-10,10304,Orange,95.0,0.0,95.0
-11,10401,Clarence Valley,95.0,0.0,95.0
-12,10402,Coffs Harbour,95.0,0.0,95.0
-13,10501,Bourke - Cobar - Coonamble,92.9,0.3,95.0
-14,10502,Broken Hill and Far West,94.3,0.4,95.0
-15,10503,Dubbo,95.0,0.0,95.0
-16,10601,Lower Hunter,95.0,0.0,95.0
-17,10602,Maitland,95.0,0.0,95.0
-18,10603,Port Stephens,95.0,0.0,95.0
-19,10604,Upper Hunter,95.0,0.0,95.0
-20,10701,Dapto - Port Kembla,94.8,0.3,95.0
-21,10703,Kiama - Shellharbour,95.0,0.0,95.0
-22,10704,Wollongong,89.9,0.2,91.0
-23,10801,Great Lakes,95.0,0.0,95.0
-24,10802,Kempsey - Nambucca,95.0,0.0,95.0
-25,10804,Port Macquarie,95.0,0.0,95.0
-26,10805,Taree - Gloucester,95.0,0.0,95.0
-27,10901,Albury,95.0,0.0,95.0
-28,10902,Lower Murray,95.0,0.4,95.0
-29,10903,Upper Murray exc. Albury,95.0,0.0,95.0
-30,11001,Armidale,91.3,0.4,93.1
-31,11002,Inverell - Tenterfield,93.5,0.8,95.0
-32,11003,Moree - Narrabri,90.5,0.6,92.9
-33,11004,Tamworth - Gunnedah,95.0,0.0,95.0
-34,11101,Lake Macquarie - East,95.0,0.0,95.0
-35,11102,Lake Macquarie - West,95.0,0.0,95.0
-36,11103,Newcastle,93.6,0.2,94.9
-37,11201,Richmond Valley - Coastal,92.8,0.7,95.0
-38,11202,Richmond Valley - Hinterland,93.2,0.6,95.0
-39,11203,Tweed Valley,89.8,0.7,92.1
-40,11301,Griffith - Murrumbidgee (West),95.0,0.0,95.0
-41,11302,Tumut - Tumbarumba,95.0,0.0,95.0
-42,11303,Wagga Wagga,95.0,0.0,95.0
-43,11401,Shoalhaven,95.0,0.0,95.0
-44,11402,Southern Highlands,95.0,0.0,95.0
-45,11501,Baulkham Hills,95.0,0.0,95.0
-46,11502,Dural - Wisemans Ferry,95.0,0.0,95.0
-47,11503,Hawkesbury,93.1,0.2,94.0
-48,11504,Rouse Hill - McGraths Hill,95.0,0.0,95.0
-49,11601,Blacktown,95.0,0.0,95.0
-50,11602,Blacktown - North,95.0,0.0,95.0
-51,11603,Mount Druitt,94.6,0.2,95.0
-52,11701,Botany,95.0,0.0,95.0
-53,11702,Marrickville - Sydenham - Petersham,80.2,0.1,81.4
-54,11703,Sydney Inner City,74.3,0.2,75.6
-55,11801,Eastern Suburbs - North,86.6,0.2,87.8
-56,11802,Eastern Suburbs - South,80.3,0.2,82.0
-57,11901,Bankstown,91.4,0.3,93.9
-58,11902,Canterbury,90.4,0.3,92.9
-59,11903,Hurstville,90.5,0.2,92.0
-60,11904,Kogarah - Rockdale,85.0,0.2,86.9
-61,12001,Canada Bay,86.5,0.2,87.4
-62,12002,Leichhardt,87.8,0.2,88.7
-63,12003,Strathfield - Burwood - Ashfield,88.3,0.2,89.6
-64,12101,Chatswood - Lane Cove,91.7,0.1,92.7
-65,12102,Hornsby,95.0,0.0,95.0
-66,12103,Ku-ring-gai,95.0,0.0,95.0
-67,12104,North Sydney - Mosman,87.0,0.2,87.8
-68,12201,Manly,93.4,0.2,94.3
-69,12202,Pittwater,95.0,0.0,95.0
-70,12203,Warringah,94.3,0.2,95.0
-71,12301,Camden,95.0,0.0,95.0
-72,12302,Campbelltown (NSW),95.0,0.0,95.0
-73,12303,Wollondilly,94.7,0.3,95.0
-74,12401,Blue Mountains,95.0,0.0,95.0
-75,12403,Penrith,95.0,0.0,95.0
-76,12404,Richmond - Windsor,94.0,0.2,95.0
-77,12405,St Marys,94.0,0.1,95.0
-78,12501,Auburn,92.2,0.2,94.6
-79,12502,Carlingford,95.0,0.1,95.0
-80,12503,Merrylands - Guildford,90.0,0.3,92.8
-81,12504,Parramatta,94.9,0.1,95.0
-82,12601,Pennant Hills - Epping,95.0,0.0,95.0
-83,12602,Ryde - Hunters Hill,91.1,0.2,92.0
-84,12701,Bringelly - Green Valley,95.0,0.0,95.0
-85,12702,Fairfield,93.7,0.2,95.0
-86,12703,Liverpool,92.5,0.3,94.5
-87,12801,Cronulla - Miranda - Caringbah,95.0,0.0,95.0
-88,12802,Sutherland - Menai - Heathcote,95.0,0.0,95.0
-89,20101,Ballarat,95.0,0.0,95.0
-90,20102,Creswick - Daylesford - Ballan,95.0,0.0,95.0
-91,20103,Maryborough - Pyrenees,95.0,0.0,95.0
-92,20201,Bendigo,95.0,0.0,95.0
-93,20202,Heathcote - Castlemaine - Kyneton,95.0,0.0,95.0
-94,20203,Loddon - Elmore,92.9,0.4,94.2
-95,20301,Barwon - West,95.0,0.0,95.0
-96,20302,Geelong,95.0,0.0,95.0
-97,20303,Surf Coast - Bellarine Peninsula,95.0,0.0,95.0
-98,20401,Upper Goulburn Valley,95.0,0.0,95.0
-99,20402,Wangaratta - Benalla,95.0,0.0,95.0
-100,20403,Wodonga - Alpine,95.0,0.0,95.0
-101,20501,Baw Baw,95.0,0.0,95.0
-102,20502,Gippsland - East,95.0,0.0,95.0
-103,20503,Gippsland - South West,95.0,0.0,95.0
-104,20504,Latrobe Valley,95.0,0.0,95.0
-105,20505,Wellington,95.0,0.0,95.0
-106,20601,Brunswick - Coburg,79.6,0.3,80.8
-107,20602,Darebin - South,81.6,0.2,82.6
-108,20603,Essendon,86.2,0.3,87.4
-109,20604,Melbourne City,74.4,0.3,76.2
-110,20605,Port Phillip,79.5,0.2,80.9
-111,20606,Stonnington - West,77.5,0.2,78.6
-112,20607,Yarra,77.5,0.2,78.6
-113,20701,Boroondara,89.9,0.2,90.9
-114,20702,Manningham - West,95.0,0.2,95.0
-115,20703,Whitehorse - West,89.9,0.2,91.3
-116,20801,Bayside,95.0,0.0,95.0
-117,20802,Glen Eira,89.6,0.4,90.8
-118,20803,Kingston,92.0,0.3,93.1
-119,20804,Stonnington - East,88.6,0.2,89.6
-120,20901,Banyule,93.2,0.4,94.3
-121,20902,Darebin - North,81.2,0.3,83.0
-122,20903,Nillumbik - Kinglake,95.0,0.0,95.0
-123,20904,Whittlesea - Wallan,93.2,0.5,95.0
-124,21001,Keilor,91.7,0.3,93.1
-125,21002,Macedon Ranges,95.0,0.0,95.0
-126,21003,Moreland - North,86.2,0.4,88.3
-127,21004,Sunbury,95.0,0.0,95.0
-128,21005,Tullamarine - Broadmeadows,95.0,0.0,95.0
-129,21101,Knox,94.6,0.4,95.0
-130,21102,Manningham - East,94.9,0.2,95.0
-131,21103,Maroondah,93.2,0.2,94.3
-132,21104,Whitehorse - East,94.5,0.2,95.0
-133,21105,Yarra Ranges,94.5,0.3,95.0
-134,21201,Cardinia,95.0,0.0,95.0
-135,21202,Casey - North,93.0,0.5,94.8
-136,21203,Casey - South,95.0,0.0,95.0
-137,21204,Dandenong,91.6,0.5,93.8
-138,21205,Monash,89.0,0.3,90.5
-139,21301,Brimbank,90.3,0.5,92.7
-140,21302,Hobsons Bay,89.6,0.4,91.1
-141,21303,Maribyrnong,83.4,0.3,84.9
-142,21304,Melton - Bacchus Marsh,95.0,0.0,95.0
-143,21305,Wyndham,95.0,0.0,95.0
-144,21401,Frankston,92.2,0.4,93.8
-145,21402,Mornington Peninsula,95.0,0.0,95.0
-146,21501,Grampians,95.0,0.0,95.0
-147,21502,Mildura,95.0,0.0,95.0
-148,21503,Murray River - Swan Hill,95.0,0.0,95.0
-149,21601,Campaspe,95.0,0.0,95.0
-150,21602,Moira,95.0,0.0,95.0
-151,21603,Shepparton,95.0,0.0,95.0
-152,21701,Glenelg - Southern Grampians,95.0,0.0,95.0
-153,21703,Colac - Corangamite,95.0,0.0,95.0
-154,21704,Warrnambool,95.0,0.0,95.0
-155,30101,Capalaba,91.1,2.7,95.0
-156,30102,Cleveland - Stradbroke,92.5,3.0,95.0
-157,30103,Wynnum - Manly,90.3,2.6,94.2
-158,30201,Bald Hills - Everton Park,91.4,2.2,94.5
-159,30202,Chermside,89.0,2.2,92.3
-160,30203,Nundah,87.4,2.2,90.8
-161,30204,Sandgate,88.5,2.7,92.6
-162,30301,Carindale,89.1,2.0,92.0
-163,30302,Holland Park - Yeronga,83.2,2.0,86.3
-164,30303,Mt Gravatt,87.9,2.6,92.1
-165,30304,Nathan,83.1,2.1,86.4
-166,30305,Rocklea - Acacia Ridge,89.7,3.3,94.7
-167,30306,Sunnybank,86.4,2.9,91.4
-168,30401,Centenary,94.6,1.9,95.0
-169,30402,Kenmore - Brookfield - Moggill,95.0,0.0,95.0
-170,30403,Sherwood - Indooroopilly,80.2,1.4,82.3
-171,30404,The Gap - Enoggera,90.1,2.1,93.0
-172,30501,Brisbane Inner,86.0,2.9,89.8
-173,30502,Brisbane Inner - East,85.8,2.0,88.4
-174,30503,Brisbane Inner - North,82.6,1.9,85.2
-175,30504,Brisbane Inner - West,86.3,1.6,88.4
-176,30601,Cairns - North,87.0,3.5,91.7
-177,30602,Cairns - South,86.2,4.9,93.3
-178,30603,Innisfail - Cassowary Coast,80.0,4.1,87.9
-179,30604,Port Douglas - Daintree,85.3,4.0,89.9
-180,30605,Tablelands (East) - Kuranda,83.9,4.7,91.5
-181,30701,Darling Downs (West) - Maranoa,85.9,3.9,91.9
-182,30702,Darling Downs - East,87.0,4.4,93.2
-183,30703,Granite Belt,86.7,4.0,94.4
-184,30801,Central Highlands (Qld),73.1,5.0,81.8
-185,30803,Rockhampton,81.9,4.9,89.4
-186,30804,Biloela,76.9,4.4,84.1
-187,30805,Gladstone,82.4,5.2,89.8
-188,30901,Broadbeach - Burleigh,88.3,3.2,92.6
-189,30902,Coolangatta,86.5,2.8,90.6
-190,30903,Gold Coast - North,84.0,2.9,88.5
-191,30904,Gold Coast Hinterland,80.4,3.1,85.0
-192,30905,Mudgeeraba - Tallebudgera,84.0,3.2,88.7
-193,30906,Nerang,79.7,3.4,84.6
-194,30907,Ormeau - Oxenford,85.9,4.1,91.3
-195,30908,Robina,80.6,3.0,84.7
-196,30909,Southport,83.9,3.5,89.0
-197,30910,Surfers Paradise,82.9,3.3,87.3
-198,31001,Forest Lake - Oxley,82.7,3.0,88.1
-199,31002,Ipswich Hinterland,82.5,4.0,88.1
-200,31003,Ipswich Inner,87.5,3.6,93.1
-201,31004,Springfield - Redbank,84.6,4.5,91.8
-202,31101,Beaudesert,78.9,4.5,85.2
-203,31102,Beenleigh,83.3,4.5,90.5
-204,31103,Browns Plains,83.8,4.6,92.0
-205,31104,Jimboomba,84.6,4.6,90.8
-206,31105,Loganlea - Carbrook,81.7,3.7,87.7
-207,31106,Springwood - Kingston,83.2,3.7,90.7
-208,31201,Bowen Basin - North,72.6,6.2,81.4
-209,31202,Mackay,87.1,5.4,94.2
-210,31203,Whitsunday,79.2,4.9,84.8
-211,31301,Bribie - Beachmere,95.0,2.2,95.0
-212,31302,Caboolture,85.8,4.6,92.3
-213,31303,Caboolture Hinterland,75.3,3.7,80.6
-214,31304,Narangba - Burpengary,88.9,3.8,94.4
-215,31305,Redcliffe,92.4,3.2,95.0
-216,31401,The Hills District,92.9,2.5,95.0
-217,31402,North Lakes,85.1,3.6,89.9
-218,31403,Strathpine,89.4,3.4,95.0
-219,31501,Far North,55.8,4.0,64.0
-220,31502,Outback - North,73.5,5.3,84.3
-221,31503,Outback - South,85.9,3.9,91.3
-222,31601,Buderim,85.1,2.6,89.0
-223,31602,Caloundra,93.3,3.1,95.0
-224,31603,Maroochy,88.1,3.1,92.8
-225,31605,Noosa,91.7,3.0,95.0
-226,31606,Sunshine Coast Hinterland,87.0,3.4,92.1
-227,31607,Nambour,90.6,3.5,95.0
-228,31608,Noosa Hinterland,80.6,3.3,85.5
-229,31701,Toowoomba,88.5,3.8,93.8
-230,31801,Charters Towers - Ayr - Ingham,81.9,5.2,89.4
-231,31802,Townsville,83.9,3.9,89.5
-232,31901,Bundaberg,89.2,4.2,95.0
-233,31902,Burnett,81.3,4.2,88.3
-234,31903,Gympie - Cooloola,80.2,4.2,87.0
-235,31904,Hervey Bay,92.3,4.3,95.0
-236,31905,Maryborough,87.2,4.4,93.7
-237,40101,Adelaide City,88.4,1.8,94.1
-238,40102,Adelaide Hills,94.4,1.8,95.0
-239,40103,Burnside,95.0,0.0,95.0
-240,40104,Campbelltown (SA),90.5,2.1,95.0
-241,40105,Norwood - Payneham - St Peters,89.7,1.5,93.4
-242,40106,Prospect - Walkerville,91.4,1.5,95.0
-243,40107,Unley,90.5,1.0,93.3
-244,40201,Gawler - Two Wells,89.8,2.6,95.0
-245,40202,Playford,80.3,3.4,88.9
-246,40203,Port Adelaide - East,87.8,2.2,93.6
-247,40204,Salisbury,84.2,2.7,91.2
-248,40205,Tea Tree Gully,89.6,2.1,94.4
-249,40301,Holdfast Bay,93.1,1.1,95.0
-250,40302,Marion,89.3,1.5,93.8
-251,40303,Mitcham,93.4,1.1,95.0
-252,40304,Onkaparinga,87.2,1.9,92.0
-253,40401,Charles Sturt,85.3,2.2,90.9
-254,40402,Port Adelaide - West,85.8,2.3,92.3
-255,40403,West Torrens,86.0,1.8,91.0
-256,40501,Barossa,85.3,2.3,90.1
-257,40502,Lower North,83.8,1.8,88.8
-258,40503,Mid North,84.8,2.3,90.8
-259,40504,Yorke Peninsula,88.6,2.6,93.9
-260,40601,Eyre Peninsula and South West,81.4,2.3,88.0
-261,40602,Outback - North and East,69.7,2.0,77.1
-262,40701,Fleurieu - Kangaroo Island,89.5,1.6,93.7
-263,40702,Limestone Coast,88.8,1.9,93.8
-264,40703,Murray and Mallee,82.5,2.2,88.4
-265,50101,Augusta - Margaret River - Busselton,86.6,2.1,94.9
-266,50102,Bunbury,85.1,2.5,94.6
-267,50103,Manjimup,85.5,2.5,94.5
-268,50201,Mandurah,86.5,2.6,95.0
-269,50301,Cottesloe - Claremont,92.2,0.8,95.0
-270,50302,Perth City,86.9,1.3,92.6
-271,50401,Bayswater - Bassendean,82.6,1.8,89.9
-272,50402,Mundaring,83.3,1.9,92.4
-273,50403,Swan,82.5,2.4,92.3
-274,50501,Joondalup,90.4,1.5,95.0
-275,50502,Stirling,83.3,1.7,90.3
-276,50503,Wanneroo,79.6,2.1,88.7
-277,50601,Armadale,82.3,2.5,91.7
-278,50602,Belmont - Victoria Park,79.5,1.7,87.0
-279,50603,Canning,90.1,1.8,95.0
-280,50604,Gosnells,82.0,2.2,91.1
-281,50605,Kalamunda,84.9,2.1,92.6
-282,50606,Serpentine - Jarrahdale,75.8,2.8,85.1
-283,50607,South Perth,82.0,1.1,86.7
-284,50701,Cockburn,83.0,2.1,91.1
-285,50702,Fremantle,88.7,1.7,95.0
-286,50703,Kwinana,77.5,2.3,87.5
-287,50704,Melville,91.4,1.2,95.0
-288,50705,Rockingham,80.5,2.3,89.5
-289,50901,Albany,83.4,2.1,92.8
-290,50902,Wheat Belt - North,79.5,2.4,88.3
-291,50903,Wheat Belt - South,83.7,2.2,90.8
-292,51001,Kimberley,66.2,2.4,77.4
-293,51002,East Pilbara,50.9,3.4,60.9
-294,51003,West Pilbara,48.9,2.1,57.8
-295,51101,Esperance,81.8,2.5,90.5
-296,51102,Gascoyne,71.1,3.2,80.1
-297,51103,Goldfields,70.2,3.1,81.7
-298,51104,Mid West,82.9,2.7,93.7
-299,60101,Brighton,92.8,1.8,95.0
-300,60102,Hobart - North East,95.0,0.0,95.0
-301,60103,Hobart - North West,95.0,0.0,95.0
-302,60104,Hobart - South and West,95.0,0.0,95.0
-303,60105,Hobart Inner,95.0,0.0,95.0
-304,60106,Sorell - Dodges Ferry,93.5,1.9,95.0
-305,60201,Launceston,92.1,1.4,95.0
-306,60202,Meander Valley - West Tamar,87.6,1.6,93.1
-307,60203,North East,88.7,1.8,94.5
-308,60301,Central Highlands (Tas.),80.5,1.3,86.1
-309,60302,Huon - Bruny Island,89.3,1.6,94.5
-310,60303,South East Coast,95.0,0.0,95.0
-311,60401,Burnie - Ulverstone,89.5,1.9,95.0
-312,60402,Devonport,88.7,2.4,95.0
-313,60403,West Coast,81.0,1.8,87.6
-314,70101,Darwin City,95.0,0.0,95.0
-315,70102,Darwin Suburbs,93.1,1.3,95.0
-316,70103,Litchfield,63.0,1.4,67.5
-317,70104,Palmerston,93.7,1.7,95.0
-318,70201,Alice Springs,80.2,2.5,88.6
-319,70202,Barkly,50.3,2.5,59.8
-320,70203,Daly - Tiwi - West Arnhem,47.8,1.0,53.6
-321,70204,East Arnhem,66.7,2.4,73.4
-322,70205,Katherine,71.5,3.1,79.0
-323,80101,Belconnen,95.0,0.0,95.0
-324,80103,Canberra East,57.9,0.0,59.4
-325,80104,Gungahlin,95.0,0.0,95.0
-326,80105,North Canberra,86.3,0.3,87.7
-327,80106,South Canberra,95.0,0.0,95.0
-328,80107,Tuggeranong,95.0,0.0,95.0
-329,80108,Weston Creek,95.0,0.0,95.0
-330,80109,Woden Valley,95.0,0.0,95.0
-331,80110,Molonglo,95.0,0.0,95.0
-332,90101,Christmas Island,55.4,0.4,58.9
-333,90104,Norfolk Island,94.5,0.9,95.0
+,id,Name,boostered,change-weekly,at_least_one_dose,two_doses
+0,10102,Queanbeyan,63.6,1.6,95.0,95.0
+1,10103,Snowy Mountains,61.6,1.2,95.0,95.0
+2,10104,South Coast,65.5,0.9,95.0,95.0
+3,10105,Goulburn - Mulwaree,61.5,1.1,95.0,95.0
+4,10106,Young - Yass,64.2,1.3,95.0,95.0
+5,10201,Gosford,60.6,1.1,95.0,95.0
+6,10202,Wyong,55.1,1.1,95.0,95.0
+7,10301,Bathurst,59.4,1.5,95.0,94.6
+8,10302,Lachlan Valley,59.8,1.4,95.0,95.0
+9,10303,Lithgow - Mudgee,58.2,2.2,95.0,95.0
+10,10304,Orange,60.7,1.0,95.0,95.0
+11,10401,Clarence Valley,56.0,1.1,95.0,95.0
+12,10402,Coffs Harbour,54.6,1.2,95.0,95.0
+13,10501,Bourke - Cobar - Coonamble,52.2,1.2,95.0,95.0
+14,10502,Broken Hill and Far West,58.5,1.4,95.0,95.0
+15,10503,Dubbo,56.5,1.0,95.0,95.0
+16,10601,Lower Hunter,51.9,1.1,95.0,95.0
+17,10602,Maitland,55.1,1.3,95.0,95.0
+18,10603,Port Stephens,60.9,1.1,95.0,95.0
+19,10604,Upper Hunter,55.3,1.4,95.0,95.0
+20,10701,Dapto - Port Kembla,55.4,1.3,95.0,95.0
+21,10703,Kiama - Shellharbour,57.9,1.1,95.0,95.0
+22,10704,Wollongong,58.8,0.9,91.0,89.8
+23,10801,Great Lakes,61.2,2.5,95.0,95.0
+24,10802,Kempsey - Nambucca,54.8,0.9,95.0,95.0
+25,10804,Port Macquarie,61.8,1.1,95.0,95.0
+26,10805,Taree - Gloucester,57.9,2.4,95.0,95.0
+27,10901,Albury,60.9,1.4,95.0,95.0
+28,10902,Lower Murray,58.4,1.5,95.0,95.0
+29,10903,Upper Murray exc. Albury,64.0,1.3,95.0,95.0
+30,11001,Armidale,60.5,1.5,93.9,92.4
+31,11002,Inverell - Tenterfield,55.6,2.3,95.0,95.0
+32,11003,Moree - Narrabri,50.8,1.4,94.2,92.5
+33,11004,Tamworth - Gunnedah,56.1,1.4,95.0,95.0
+34,11101,Lake Macquarie - East,61.8,1.2,95.0,95.0
+35,11102,Lake Macquarie - West,56.2,1.3,95.0,95.0
+36,11103,Newcastle,60.0,1.3,94.7,93.4
+37,11201,Richmond Valley - Coastal,53.4,1.0,94.9,93.1
+38,11202,Richmond Valley - Hinterland,50.5,0.5,95.0,95.0
+39,11203,Tweed Valley,52.4,1.0,92.3,90.7
+40,11301,Griffith - Murrumbidgee (West),53.8,1.5,95.0,95.0
+41,11302,Tumut - Tumbarumba,58.0,0.7,95.0,95.0
+42,11303,Wagga Wagga,60.2,1.2,95.0,95.0
+43,11401,Shoalhaven,62.4,0.9,95.0,95.0
+44,11402,Southern Highlands,65.8,0.8,95.0,95.0
+45,11501,Baulkham Hills,66.6,1.2,95.0,95.0
+46,11502,Dural - Wisemans Ferry,62.5,0.8,95.0,95.0
+47,11503,Hawkesbury,55.3,0.6,94.2,93.5
+48,11504,Rouse Hill - McGraths Hill,58.7,1.1,95.0,95.0
+49,11601,Blacktown,52.6,1.3,95.0,95.0
+50,11602,Blacktown - North,57.9,1.4,95.0,95.0
+51,11603,Mount Druitt,47.8,1.3,95.0,95.0
+52,11701,Botany,53.0,1.3,95.0,95.0
+53,11702,Marrickville - Sydenham - Petersham,55.8,0.8,81.4,80.2
+54,11703,Sydney Inner City,47.8,1.0,76.0,74.2
+55,11801,Eastern Suburbs - North,58.7,1.1,88.4,87.0
+56,11802,Eastern Suburbs - South,52.1,1.2,82.3,80.5
+57,11901,Bankstown,45.9,1.1,94.5,92.2
+58,11902,Canterbury,44.6,1.4,93.7,91.4
+59,11903,Hurstville,52.7,1.4,92.4,90.9
+60,11904,Kogarah - Rockdale,45.5,1.2,87.1,85.1
+61,12001,Canada Bay,58.1,1.1,87.6,86.5
+62,12002,Leichhardt,67.8,1.0,88.5,87.6
+63,12003,Strathfield - Burwood - Ashfield,54.4,1.2,89.4,87.8
+64,12101,Chatswood - Lane Cove,67.2,1.2,93.2,92.0
+65,12102,Hornsby,68.3,1.1,95.0,95.0
+66,12103,Ku-ring-gai,73.3,1.0,95.0,95.0
+67,12104,North Sydney - Mosman,65.9,1.1,88.6,87.4
+68,12201,Manly,66.0,1.5,94.3,93.3
+69,12202,Pittwater,65.3,1.1,95.0,95.0
+70,12203,Warringah,62.8,1.6,95.0,94.4
+71,12301,Camden,55.0,1.0,95.0,95.0
+72,12302,Campbelltown (NSW),52.1,1.3,95.0,95.0
+73,12303,Wollondilly,52.6,1.2,95.0,94.6
+74,12401,Blue Mountains,68.0,1.5,95.0,95.0
+75,12403,Penrith,54.1,1.2,95.0,95.0
+76,12404,Richmond - Windsor,54.0,0.9,95.0,94.3
+77,12405,St Marys,49.3,1.0,95.0,94.9
+78,12501,Auburn,44.0,1.2,94.8,92.3
+79,12502,Carlingford,60.8,1.2,95.0,94.9
+80,12503,Merrylands - Guildford,40.3,1.1,93.7,91.1
+81,12504,Parramatta,56.2,1.4,95.0,94.9
+82,12601,Pennant Hills - Epping,68.8,1.2,95.0,95.0
+83,12602,Ryde - Hunters Hill,61.1,1.3,91.8,90.5
+84,12701,Bringelly - Green Valley,44.0,1.2,95.0,95.0
+85,12702,Fairfield,46.6,1.3,95.0,95.0
+86,12703,Liverpool,46.1,1.2,94.1,92.3
+87,12801,Cronulla - Miranda - Caringbah,63.1,1.2,95.0,94.9
+88,12802,Sutherland - Menai - Heathcote,65.8,1.0,95.0,95.0
+89,20101,Ballarat,70.8,1.4,95.0,95.0
+90,20102,Creswick - Daylesford - Ballan,68.0,1.1,95.0,95.0
+91,20103,Maryborough - Pyrenees,69.4,1.3,95.0,95.0
+92,20201,Bendigo,70.2,1.0,95.0,95.0
+93,20202,Heathcote - Castlemaine - Kyneton,72.7,1.3,95.0,95.0
+94,20203,Loddon - Elmore,64.1,1.8,95.0,94.1
+95,20301,Barwon - West,64.9,1.3,95.0,95.0
+96,20302,Geelong,67.0,1.3,95.0,95.0
+97,20303,Surf Coast - Bellarine Peninsula,71.9,0.9,95.0,95.0
+98,20401,Upper Goulburn Valley,65.8,1.2,95.0,95.0
+99,20402,Wangaratta - Benalla,67.1,1.1,95.0,95.0
+100,20403,Wodonga - Alpine,66.5,1.4,95.0,95.0
+101,20501,Baw Baw,63.4,1.5,95.0,95.0
+102,20502,Gippsland - East,66.5,1.5,95.0,95.0
+103,20503,Gippsland - South West,66.7,1.2,95.0,95.0
+104,20504,Latrobe Valley,60.2,1.7,95.0,95.0
+105,20505,Wellington,63.2,1.7,95.0,95.0
+106,20601,Brunswick - Coburg,57.3,1.2,79.9,78.7
+107,20602,Darebin - South,61.4,1.1,81.8,81.0
+108,20603,Essendon,61.4,1.4,86.2,85.2
+109,20604,Melbourne City,46.9,1.5,78.4,75.4
+110,20605,Port Phillip,55.5,1.2,80.8,79.6
+111,20606,Stonnington - West,55.6,1.2,78.5,77.3
+112,20607,Yarra,58.5,1.0,77.7,76.7
+113,20701,Boroondara,68.9,1.3,91.6,90.5
+114,20702,Manningham - West,64.1,1.5,95.0,95.0
+115,20703,Whitehorse - West,63.0,1.5,91.1,89.6
+116,20801,Bayside,72.0,0.9,95.0,95.0
+117,20802,Glen Eira,64.1,1.6,90.5,89.3
+118,20803,Kingston,65.7,1.3,92.7,91.8
+119,20804,Stonnington - East,67.9,1.4,89.3,88.2
+120,20901,Banyule,69.0,1.4,94.6,93.5
+121,20902,Darebin - North,52.1,1.5,82.7,81.1
+122,20903,Nillumbik - Kinglake,68.7,1.1,95.0,95.0
+123,20904,Whittlesea - Wallan,53.6,1.9,94.1,92.4
+124,21001,Keilor,61.0,1.6,93.5,92.4
+125,21002,Macedon Ranges,67.9,1.2,95.0,95.0
+126,21003,Moreland - North,52.2,1.7,88.4,86.6
+127,21004,Sunbury,63.5,1.7,95.0,94.7
+128,21005,Tullamarine - Broadmeadows,44.9,1.7,95.0,95.0
+129,21101,Knox,64.9,1.8,95.0,95.0
+130,21102,Manningham - East,67.6,1.5,95.0,95.0
+131,21103,Maroondah,66.1,1.7,94.4,93.5
+132,21104,Whitehorse - East,68.7,1.7,95.0,94.8
+133,21105,Yarra Ranges,62.8,1.9,95.0,95.0
+134,21201,Cardinia,57.3,1.7,95.0,95.0
+135,21202,Casey - North,56.0,1.9,95.0,94.1
+136,21203,Casey - South,54.6,1.8,95.0,95.0
+137,21204,Dandenong,54.6,2.1,95.0,93.2
+138,21205,Monash,60.0,1.6,91.4,89.6
+139,21301,Brimbank,52.6,2.1,94.0,92.1
+140,21302,Hobsons Bay,61.8,1.6,91.4,90.2
+141,21303,Maribyrnong,57.1,1.5,84.4,83.0
+142,21304,Melton - Bacchus Marsh,55.1,1.8,95.0,95.0
+143,21305,Wyndham,55.4,2.0,95.0,95.0
+144,21401,Frankston,60.5,1.5,94.3,93.1
+145,21402,Mornington Peninsula,67.4,1.0,95.0,95.0
+146,21501,Grampians,68.7,1.5,95.0,95.0
+147,21502,Mildura,57.3,1.6,95.0,95.0
+148,21503,Murray River - Swan Hill,61.2,1.6,95.0,95.0
+149,21601,Campaspe,64.8,1.6,95.0,95.0
+150,21602,Moira,63.0,1.7,95.0,95.0
+151,21603,Shepparton,60.9,1.4,95.0,95.0
+152,21701,Glenelg - Southern Grampians,67.5,1.4,95.0,95.0
+153,21703,Colac - Corangamite,65.9,1.3,95.0,95.0
+154,21704,Warrnambool,69.3,1.3,95.0,95.0
+155,30101,Capalaba,58.0,1.7,95.0,95.0
+156,30102,Cleveland - Stradbroke,59.8,1.6,95.0,95.0
+157,30103,Wynnum - Manly,59.6,1.9,95.0,93.8
+158,30201,Bald Hills - Everton Park,63.0,1.6,95.0,93.9
+159,30202,Chermside,60.6,1.6,93.3,92.0
+160,30203,Nundah,57.4,1.8,91.6,90.2
+161,30204,Sandgate,57.6,1.8,94.6,93.0
+162,30301,Carindale,61.6,1.4,92.6,91.5
+163,30302,Holland Park - Yeronga,56.2,1.3,87.2,85.7
+164,30303,Mt Gravatt,54.6,1.6,93.1,91.4
+165,30304,Nathan,55.4,1.4,87.6,86.3
+166,30305,Rocklea - Acacia Ridge,50.9,1.8,95.0,94.8
+167,30306,Sunnybank,49.5,1.9,94.9,92.8
+168,30401,Centenary,66.6,1.4,95.0,95.0
+169,30402,Kenmore - Brookfield - Moggill,70.0,0.1,95.0,95.0
+170,30403,Sherwood - Indooroopilly,57.2,1.4,83.4,82.1
+171,30404,The Gap - Enoggera,65.3,1.7,94.0,93.0
+172,30501,Brisbane Inner,53.9,1.8,89.2,87.0
+173,30502,Brisbane Inner - East,58.7,1.6,88.2,87.1
+174,30503,Brisbane Inner - North,56.1,1.5,85.1,83.9
+175,30504,Brisbane Inner - West,62.2,1.2,89.0,88.0
+176,30601,Cairns - North,56.3,1.6,92.8,91.2
+177,30602,Cairns - South,51.9,2.0,95.0,94.5
+178,30603,Innisfail - Cassowary Coast,48.4,1.3,92.9,89.8
+179,30604,Port Douglas - Daintree,51.4,1.5,91.7,89.7
+180,30605,Tablelands (East) - Kuranda,54.2,1.9,95.0,93.6
+181,30701,Darling Downs (West) - Maranoa,54.7,1.5,94.9,92.9
+182,30702,Darling Downs - East,53.6,2.1,95.0,95.0
+183,30703,Granite Belt,50.9,1.4,95.0,95.0
+184,30801,Central Highlands (Qld),36.9,1.3,87.2,84.2
+185,30803,Rockhampton,50.1,1.8,93.5,91.4
+186,30804,Biloela,41.5,1.2,89.2,86.9
+187,30805,Gladstone,46.1,2.0,94.0,91.9
+188,30901,Broadbeach - Burleigh,48.7,1.3,93.4,91.5
+189,30902,Coolangatta,47.5,1.4,91.4,89.6
+190,30903,Gold Coast - North,51.6,1.5,90.2,88.2
+191,30904,Gold Coast Hinterland,48.1,1.3,86.1,84.3
+192,30905,Mudgeeraba - Tallebudgera,45.0,1.2,89.8,87.9
+193,30906,Nerang,42.2,1.2,87.0,85.1
+194,30907,Ormeau - Oxenford,44.1,1.6,90.5,88.5
+195,30908,Robina,43.6,1.2,86.3,84.4
+196,30909,Southport,45.1,1.4,91.3,89.1
+197,30910,Surfers Paradise,46.1,1.5,87.3,85.2
+198,31001,Forest Lake - Oxley,49.2,1.9,90.9,88.8
+199,31002,Ipswich Hinterland,49.2,2.6,90.7,88.9
+200,31003,Ipswich Inner,52.6,1.9,95.0,93.3
+201,31004,Springfield - Redbank,45.5,2.3,93.4,91.0
+202,31101,Beaudesert,47.5,1.8,87.6,85.6
+203,31102,Beenleigh,44.2,2.0,92.5,90.1
+204,31103,Browns Plains,41.6,2.0,95.0,93.3
+205,31104,Jimboomba,42.6,1.8,91.2,89.3
+206,31105,Loganlea - Carbrook,44.7,1.7,90.9,88.8
+207,31106,Springwood - Kingston,44.8,1.7,95.0,92.5
+208,31201,Bowen Basin - North,36.4,1.7,85.2,82.7
+209,31202,Mackay,49.1,1.9,95.0,95.0
+210,31203,Whitsunday,41.6,1.0,86.6,84.7
+211,31301,Bribie - Beachmere,69.3,1.4,95.0,95.0
+212,31302,Caboolture,48.9,2.2,94.7,92.6
+213,31303,Caboolture Hinterland,41.6,2.0,81.2,79.6
+214,31304,Narangba - Burpengary,52.3,1.9,95.0,94.8
+215,31305,Redcliffe,61.9,1.8,95.0,95.0
+216,31401,The Hills District,63.5,1.6,95.0,95.0
+217,31402,North Lakes,50.0,1.8,89.8,88.1
+218,31403,Strathpine,54.9,2.0,95.0,95.0
+219,31501,Far North,33.5,1.5,67.6,63.9
+220,31502,Outback - North,41.4,1.6,91.2,86.7
+221,31503,Outback - South,62.9,1.8,95.0,93.3
+222,31601,Buderim,54.0,1.4,90.7,89.2
+223,31602,Caloundra,59.6,2.1,95.0,95.0
+224,31603,Maroochy,55.1,1.9,94.3,92.4
+225,31605,Noosa,59.2,1.4,95.0,95.0
+226,31606,Sunshine Coast Hinterland,53.7,2.0,93.3,91.6
+227,31607,Nambour,55.2,1.9,95.0,95.0
+228,31608,Noosa Hinterland,51.0,1.5,86.8,85.0
+229,31701,Toowoomba,55.8,1.8,95.0,94.5
+230,31801,Charters Towers - Ayr - Ingham,52.6,2.1,94.1,91.9
+231,31802,Townsville,52.9,1.9,92.1,90.3
+232,31901,Bundaberg,57.6,1.7,95.0,95.0
+233,31902,Burnett,51.5,2.0,92.8,90.5
+234,31903,Gympie - Cooloola,49.6,2.5,90.0,87.9
+235,31904,Hervey Bay,61.9,1.9,95.0,95.0
+236,31905,Maryborough,57.5,2.3,95.0,94.6
+237,40101,Adelaide City,61.2,1.8,95.0,93.1
+238,40102,Adelaide Hills,69.8,1.6,95.0,95.0
+239,40103,Burnside,74.5,0.7,95.0,95.0
+240,40104,Campbelltown (SA),62.3,2.1,95.0,94.9
+241,40105,Norwood - Payneham - St Peters,66.0,1.7,94.4,92.3
+242,40106,Prospect - Walkerville,66.6,1.6,95.0,94.6
+243,40107,Unley,71.2,1.3,94.4,92.9
+244,40201,Gawler - Two Wells,61.5,1.6,95.0,95.0
+245,40202,Playford,49.2,1.9,93.2,89.4
+246,40203,Port Adelaide - East,56.3,2.3,95.0,92.8
+247,40204,Salisbury,53.4,2.1,94.7,91.6
+248,40205,Tea Tree Gully,63.4,2.0,95.0,94.5
+249,40301,Holdfast Bay,71.9,1.3,95.0,95.0
+250,40302,Marion,64.6,1.6,95.0,92.8
+251,40303,Mitcham,72.9,1.3,95.0,95.0
+252,40304,Onkaparinga,61.7,1.4,94.3,92.0
+253,40401,Charles Sturt,57.2,2.0,92.9,90.5
+254,40402,Port Adelaide - West,57.4,2.4,95.0,92.2
+255,40403,West Torrens,59.5,1.7,92.4,89.9
+256,40501,Barossa,62.4,1.9,92.1,90.4
+257,40502,Lower North,62.2,1.5,91.7,89.6
+258,40503,Mid North,62.7,2.3,94.9,92.6
+259,40504,Yorke Peninsula,67.3,3.2,95.0,94.5
+260,40601,Eyre Peninsula and South West,56.7,1.6,92.0,88.7
+261,40602,Outback - North and East,45.9,1.1,81.8,78.1
+262,40701,Fleurieu - Kangaroo Island,68.9,1.2,94.8,93.1
+263,40702,Limestone Coast,58.7,2.1,95.0,93.4
+264,40703,Murray and Mallee,56.3,1.5,90.9,88.3
+265,50101,Augusta - Margaret River - Busselton,72.1,2.5,95.0,95.0
+266,50102,Bunbury,71.5,2.9,95.0,95.0
+267,50103,Manjimup,72.8,3.1,95.0,95.0
+268,50201,Mandurah,72.4,3.3,95.0,95.0
+269,50301,Cottesloe - Claremont,83.3,1.5,95.0,95.0
+270,50302,Perth City,75.3,1.9,95.0,94.1
+271,50401,Bayswater - Bassendean,69.9,2.4,95.0,94.8
+272,50402,Mundaring,70.9,2.9,95.0,95.0
+273,50403,Swan,67.2,3.0,95.0,95.0
+274,50501,Joondalup,78.7,2.1,95.0,95.0
+275,50502,Stirling,70.6,2.4,95.0,94.9
+276,50503,Wanneroo,65.7,2.7,95.0,94.6
+277,50601,Armadale,67.2,3.4,95.0,95.0
+278,50602,Belmont - Victoria Park,65.9,2.6,92.6,90.4
+279,50603,Canning,75.0,2.8,95.0,95.0
+280,50604,Gosnells,65.9,3.2,95.0,95.0
+281,50605,Kalamunda,72.1,2.9,95.0,95.0
+282,50606,Serpentine - Jarrahdale,61.8,3.1,91.3,89.4
+283,50607,South Perth,72.3,1.8,91.2,89.6
+284,50701,Cockburn,69.9,2.9,95.0,95.0
+285,50702,Fremantle,77.7,2.3,95.0,95.0
+286,50703,Kwinana,62.7,2.5,95.0,92.4
+287,50704,Melville,80.9,2.0,95.0,95.0
+288,50705,Rockingham,67.3,2.9,95.0,95.0
+289,50901,Albany,70.4,2.8,95.0,95.0
+290,50902,Wheat Belt - North,66.6,2.8,95.0,95.0
+291,50903,Wheat Belt - South,70.3,2.7,95.0,95.0
+292,51001,Kimberley,51.5,2.1,88.2,82.0
+293,51002,East Pilbara,40.5,3.7,67.6,64.2
+294,51003,West Pilbara,38.3,3.1,63.0,60.7
+295,51101,Esperance,68.4,2.4,95.0,95.0
+296,51102,Gascoyne,54.2,3.1,91.2,87.2
+297,51103,Goldfields,56.3,3.3,91.3,88.3
+298,51104,Mid West,68.4,3.0,95.0,95.0
+299,60101,Brighton,55.8,2.3,95.0,95.0
+300,60102,Hobart - North East,68.4,0.9,95.0,95.0
+301,60103,Hobart - North West,60.1,1.3,95.0,95.0
+302,60104,Hobart - South and West,69.3,2.5,95.0,95.0
+303,60105,Hobart Inner,69.4,1.3,95.0,95.0
+304,60106,Sorell - Dodges Ferry,60.4,3.0,95.0,95.0
+305,60201,Launceston,62.6,1.6,95.0,95.0
+306,60202,Meander Valley - West Tamar,60.1,1.7,95.0,94.0
+307,60203,North East,59.8,2.0,95.0,95.0
+308,60301,Central Highlands (Tas.),49.7,1.4,88.8,86.6
+309,60302,Huon - Bruny Island,63.5,2.2,95.0,93.5
+310,60303,South East Coast,69.9,1.5,95.0,95.0
+311,60401,Burnie - Ulverstone,59.2,1.9,95.0,95.0
+312,60402,Devonport,56.0,2.7,95.0,95.0
+313,60403,West Coast,49.8,2.0,91.2,88.6
+314,70101,Darwin City,65.6,1.8,95.0,95.0
+315,70102,Darwin Suburbs,63.6,2.6,95.0,95.0
+316,70103,Litchfield,36.0,1.8,68.5,67.1
+317,70104,Palmerston,58.3,3.3,95.0,95.0
+318,70201,Alice Springs,54.3,2.2,92.6,89.2
+319,70202,Barkly,32.5,1.7,70.9,65.9
+320,70203,Daly - Tiwi - West Arnhem,31.2,1.0,55.0,52.0
+321,70204,East Arnhem,38.2,1.4,78.7,74.5
+322,70205,Katherine,40.7,1.9,80.9,77.4
+323,80101,Belconnen,68.1,1.0,95.0,95.0
+324,80103,Canberra East,38.4,0.8,59.0,57.3
+325,80104,Gungahlin,64.1,1.4,95.0,95.0
+326,80105,North Canberra,65.9,1.2,88.5,86.7
+327,80106,South Canberra,75.0,1.1,95.0,95.0
+328,80107,Tuggeranong,67.6,1.0,95.0,95.0
+329,80108,Weston Creek,73.5,0.9,95.0,95.0
+330,80109,Woden Valley,72.4,1.2,95.0,95.0
+331,80110,Molonglo,65.5,1.3,95.0,95.0
+332,90101,Christmas Island,50.8,1.0,59.1,56.9
+333,90104,Norfolk Island,78.8,1.1,95.0,95.0
