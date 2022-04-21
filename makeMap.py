@@ -121,7 +121,7 @@ makeMap(final_map)
 #%%
 
 from yachtcharter import yachtCharter
-testo = '-testo'
+# testo = '-testo'
 
 def makeTable(df):
 	
